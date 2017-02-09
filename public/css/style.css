@@ -1,0 +1,9 @@
+body {
+  padding-top:30px;
+}
+
+.Poster {
+  height: 250px;
+  width: 180px;
+  box-shadow: 20px 20px 15px grey;
+}
